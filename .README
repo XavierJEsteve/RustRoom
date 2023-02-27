@@ -1,0 +1,7 @@
+There isn't too much that is useful about this application. I decided to make this primariliy to expose myself to some asynchronous Rust. Getting familiar with a useful TCP stream library is always important as well.
+
+# Operation
+1. Navigate to the crate directory
+2. 'cargo run'
+3. Connect to localhost:8080 with tool of choice.
+	a. I used Telnet for quick and easy testing. 'telnet localhost 8080'
